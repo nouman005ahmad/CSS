@@ -1,0 +1,203 @@
+body{
+    background-color: bisque;
+}
+
+.header{
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.section{
+    margin: 10px;
+    padding: 10px;
+    display: flex;
+}
+.laptop{
+    margin: 10px;
+    padding: 10px; 
+    border: 33%;
+    background-color: rgb(246, 248, 247);
+    margin-left: 15%;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    width: 380px;
+}
+
+.laptop2{
+    margin: 10px;
+    padding: 10px;
+    border: 33%; 
+    background-color: rgb(248, 250, 249);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    
+}
+.laptop3{
+    border: 33%;
+    margin: 10px;
+    padding: 10px;
+    box-sizing: 50px;
+    background-color: rgb(248, 250, 249);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    width: 344px;
+}
+.section2{
+    margin: 10px;
+    padding: 10px;
+    display: flex;
+}
+.LCD1{
+    margin: 10px;
+    padding: 10px;
+    border: 33%;
+    margin-left: 15%;
+    margin-top: -1%;
+    background-color: rgb(248, 250, 249);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+.LCD2{
+    margin: 10px;
+    padding: 10px;
+    border: 33%; 
+    background-color: rgb(248, 250, 249);
+    margin-top: -1%;
+    width: 370px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+img{
+    width: 250px;
+    height: 200px;
+    align-items: center;
+    
+}
+.LCD3{
+    margin: 10px;
+    padding: 10px;
+    border: 33%; 
+    background-color: rgb(248, 250, 249);
+    margin-top: -1%;
+    width: 344px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+.section3{
+    margin: 10px;
+    padding: 10px;
+    display: flex;
+}
+.LCD4{
+    margin: 10px;
+    padding: 10px;
+    border: 33%; 
+    background-color: rgb(248, 250, 249);
+    margin-top: -1%;
+    width: 380px;
+    margin-left: 15%;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+.footer{
+    margin: 10px;
+    padding: 10px;
+    margin-left: 16%;
+    margin-right: 15%;
+    background-color: rgb(248, 250, 249);
+    width: 1180px;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 240px;
+    text-align: center;
+}
+.Image{
+    float: right;
+}
+.header2{
+    margin: 50px;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+.section4{
+    margin: 10px;
+    padding: 10px;
+    display: flex;
+}
+.mob1{
+    margin: 10px;
+    padding: 10px;
+    margin-left: 15%;
+    width: 380px;
+    background-color: rgb(248, 250, 249);
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.mob2{
+    margin: 10px;
+    padding: 10px;
+    background-color: rgb(248, 250, 249);
+    width: 380px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.mob3{
+    margin: 10px;
+    padding: 10px;
+    background-color: rgb(248, 250, 249);
+    width: 350px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.footer2{
+    margin: 10px;
+    padding: 10px;
+    margin-left: 16%;
+    margin-right: 15%;
+    background-color: rgb(248, 250, 249);
+    width: 1180px;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 240px;
+    text-align: center;
+    display: flex;
+}
+.s1{
+    margin: 10px;
+    padding: 10px;
+    margin-right: 10%;
+}
+.s2{
+    margin: 10px;
+    padding: 10px;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.s3{
+    margin: 10px;
+    padding: 10px;
+    margin-left: 10%;
+    margin-right: 8%;
+}
+.A{
+    width: 150px;
+}
+.B{
+    width: 150px;
+}
+.C{
+    width: 150px;
+}
+a{
+    width: 100px;
+    height: 100px;
+    background: red;
+    transition-property: width;
+    transition-duration: 2s;
+    color: aliceblue;
+    
+}
+a:hover{
+    width: 500px;
+   
+}
